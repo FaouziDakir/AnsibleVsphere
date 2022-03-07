@@ -1,0 +1,11 @@
+vm_cpu_num: "2"
+vm_hotadd_cpu: true
+vm_hotremove_cpu: true
+vm_nested_virt: true
+vm_mem_size: "8192"
+vm_hotadd_memory: true
+vm_memory_reservation_lock: false
+vm_disk_size: "20480"
+vm_network: "LAN"
+vm_start_connected: true
+vm_datastore: "datastore3"
